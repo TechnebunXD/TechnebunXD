@@ -11,6 +11,7 @@ I also make humor based websites for my friends that lack any effort
 [pwalter kill button](https://github.com/TechnebunXD/pwalter) Check the (currently working on) repo there!
 
 Here's a spinning cat while I leave, Goodbye and enjoy this (funny) cat.
+
 ![cat](https://tenor.com/view/cat-spin-spinning-kitty-3d-gif-25662036)
 
 
