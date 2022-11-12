@@ -14,7 +14,7 @@ I also make humor based websites for my friends that lack any effort
 
 Here's a spinning cat while I leave, Goodbye and enjoy this (funny) cat.
 
-![cat](https://tenor.com/bCL4U.gif)
+![cat](https://media.giphy.com/media/HQG7QqB4DHPTfYcAQA/giphy.gif)
 
 
 
