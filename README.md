@@ -12,7 +12,7 @@ I also make humor based websites for my friends that lack any effort
 
 - [pwalter kill button](https://github.com/TechnebunXD/pwalter) Check the (currently working on) repo there!
 
-Here's a spinning cat while I leave, Goodbye and enjoy this (funny) cat.
+Enough about me, but more about this awesome looking cat
 
 ![cat](https://media.giphy.com/media/HQG7QqB4DHPTfYcAQA/giphy.gif)
 
